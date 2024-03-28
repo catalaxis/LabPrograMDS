@@ -1,0 +1,3 @@
+videos/ ## Para la carpeta ignorada
+*.txt ## * Para los archivos con cierta extensión que se ignoran
+!texts/171.txt ## ! Para las excepciones (puntuales)
